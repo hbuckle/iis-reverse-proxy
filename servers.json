@@ -1,0 +1,12 @@
+[
+    {
+        "externalHostname": "server1",
+        "containerHostname": "server1",
+        "appPath": "somepath"
+    },
+    {
+        "externalHostname": "server1",
+        "containerHostname": "server1",
+        "appPath": "somepath"
+    }
+]

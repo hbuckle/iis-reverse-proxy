@@ -1,0 +1,1 @@
+docker -H docker-host:2375 container stop iisrp

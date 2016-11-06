@@ -1,0 +1,1 @@
+docker -H docker-host:2375 build .\ -t hbuckle/iis-reverse-proxy
